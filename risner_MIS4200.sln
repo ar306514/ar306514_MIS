@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "risner_MIS4200", "risner_MIS4200.csproj", "{48FB1D9F-485A-4FA9-8F86-943F5F35234D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ar306514_MIS4200", "ar306514_MIS4200.csproj", "{48FB1D9F-485A-4FA9-8F86-943F5F35234D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
